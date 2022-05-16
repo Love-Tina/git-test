@@ -1,13 +1,8 @@
 package com.wang.git;
 
+/**
+ * @Author: Pu Wang
+ * @Date: 2022/05/16/9:34
+ */
 public class GitTest {
-    public static void main(String[] args) {
-        System.out.println("git test");
-        System.out.println("second commit");
-        System.out.println("hot-fix commit");
-        System.out.println("master test");
-        System.out.println("hot-fix test");
-        System.out.println("push test");
-        System.out.println("pull test");
-    }
 }
